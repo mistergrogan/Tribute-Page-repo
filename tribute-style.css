@@ -1,0 +1,69 @@
+body {
+    background-color: #B9EDBB;
+  }
+  
+  h1 {
+    font-size: 82px;
+    text-align: center;
+    font-family: 'Homemade Apple', cursive;
+    margin: 10px;
+  }
+  
+  p {
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+  }
+  
+  #img-div {
+      font-size: 24px;
+      background: white;
+      padding: 10px;
+      margin: 0px;
+  }
+  
+  figure {
+      display: block;
+  }
+  
+  #img-div {
+    background: #6F9071;
+  }
+  
+  #image {
+    max-width: 80%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  #img-caption {
+    text-align: center;
+    font-family:  'Cairo', sans-serif;
+    color: white;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Cairo', sans-serif;
+  }
+  
+  #tribute-headline {
+    margin: 80px;
+  }
+  
+  ul {
+    max-width: 700px;
+    margin: 0 auto 60px auto;
+    text-align: left;
+  }
+  
+  li {
+    margin: 25px 0;
+    font-size: 25px
+  }
+  div {
+    font-size: 25px;
+    text-align: center;
+  }
